@@ -1,0 +1,700 @@
+Team,ELO_Rating,Peak_ELO,Games_Played
+Howard,1635.26,1635.26,56
+Arkansas–Pine Bluff,1615.89,1627.88,56
+Lindenwood,1614.19,1615.23,59
+Incarnate Word,1600.72,1635.65,58
+Houston Christian,1599.06,1613.96,60
+Grambling State,1598.85,1622.66,55
+Eastern Washington,1598.61,1614.51,60
+Idaho,1597.49,1620.01,60
+East Tennessee State,1597.22,1597.22,60
+Georgia State,1596.39,1607.79,61
+McNeese State,1595.78,1619.32,60
+Eastern Kentucky,1594.73,1620.67,62
+Le Moyne,1593.08,1627.68,60
+Lehigh,1591.14,1601.95,58
+LIU,1589.8,1618.39,60
+Cal State Fullerton,1587.72,1597.02,58
+Albany (NY),1587.56,1587.56,60
+Southern Indiana,1587.29,1608.24,58
+Little Rock,1585.51,1642.05,60
+Holy Cross,1584.85,1594.24,62
+Abilene Christian,1583.7,1631.41,55
+Louisiana Tech,1583.4,1592.14,55
+FDU,1582.13,1624.56,59
+Chattanooga,1581.84,1601.86,60
+Iona,1580.35,1595.94,60
+Long Beach State,1578.51,1594.02,58
+Idaho State,1578.23,1631.17,55
+High Point,1578.23,1597.18,60
+Maryland Eastern Shore,1577.93,1628.13,54
+Chicago State,1577.73,1610.97,62
+California Baptist,1577.67,1599.27,56
+Manhattan,1576.72,1590.39,53
+Green Bay,1576.26,1607.28,63
+Austin Peay,1576.18,1622.65,64
+Charleston Southern,1575.69,1604.88,60
+Tennessee State,1575.42,1627.52,59
+Appalachian State,1575.29,1589.11,58
+Southern Utah,1574.8,1576.79,55
+Central Arkansas,1574.56,1608.27,64
+Furman,1574.22,1612.82,59
+Longwood,1574.18,1599.97,59
+Eastern Illinois,1573.44,1621.2,59
+Purdue Fort Wayne,1573.22,1595.78,60
+Southeast Missouri State,1573.03,1630.27,59
+Southern,1572.94,1609.09,55
+Cal State Bakersfield,1572.83,1606.42,60
+Detroit Mercy,1572.61,1595.39,63
+Jacksonville,1571.75,1635.88,60
+Louisiana,1571.24,1575.3,63
+Coppin State,1570.48,1635.06,55
+IU Indy,1569.93,1605.58,61
+Stonehill,1569.71,1611.46,60
+Florida A&M,1569.05,1637.88,54
+Gardner-Webb,1569.01,1612.67,58
+Lamar,1568.89,1624.74,59
+Delaware State,1568.81,1644.46,52
+Norfolk State,1568.39,1583.1,57
+Florida International,1568.11,1602.03,56
+UMass Lowell,1567.76,1598.98,59
+Weber State,1567.66,1625.57,61
+Western Carolina,1567.34,1596.99,55
+Kent State,1565.82,1597.29,58
+Arkansas State,1565.5,1592.58,61
+Texas Southern,1565.19,1600.57,57
+Hampton,1565.09,1588.15,59
+Grand Canyon,1564.71,1586.16,55
+Denver,1564.69,1602.76,59
+UC Davis,1563.94,1619.43,56
+Central Connecticut State,1563.92,1613.81,56
+Bucknell,1563.88,1586.34,62
+Montana State,1563.1,1603.93,61
+New Orleans,1562.98,1579.97,62
+Jacksonville State,1562.87,1609.61,57
+Prairie View A&M,1562.3,1593.65,59
+Akron,1562.03,1593.95,58
+Kennesaw State,1561.68,1591.13,57
+Mercer,1561.36,1617.49,60
+Bethune-Cookman,1561.36,1608.94,60
+James Madison,1561.19,1578.74,60
+The Citadel,1560.95,1624.07,54
+Loyola (MD),1560.53,1593.19,59
+Northern Colorado,1560.52,1580.64,59
+Delaware,1560.38,1588.76,60
+Hofstra,1560.35,1601.34,60
+Western Illinois,1560.1,1610.78,59
+Alabama A&M,1559.75,1605.32,55
+Montana,1559.59,1610.52,59
+South Dakota State,1559.47,1583.92,59
+South Carolina State,1559.25,1618.32,55
+Nicholls State,1559.16,1607.77,59
+Alcorn State,1559.1,1621.01,57
+Bryant,1558.93,1611.98,60
+Elon,1558.88,1592.06,60
+Brown,1558.84,1573.66,51
+Fairfield,1558.52,1601.57,57
+Cal Poly,1558.44,1606.62,59
+Bellarmine,1558.39,1610.74,60
+Morehead State,1558.17,1614.08,59
+Wagner,1557.37,1604.38,54
+Maine,1556.92,1605.86,60
+Morgan State,1556.78,1598.82,54
+New Hampshire,1556.74,1592.35,60
+Hawaii,1556.57,1581.18,56
+South Dakota,1555.93,1590.94,59
+Georgia Southern,1555.77,1583.4,61
+Bowling Green,1555.37,1586.4,58
+UC Riverside,1555.35,1591.97,58
+Cleveland State,1554.66,1593.35,59
+Florida Gulf Coast,1554.52,1600.94,63
+Tennessee Tech,1554.41,1616.93,60
+Old Dominion,1554.04,1572.16,60
+UMBC,1553.5,1606.27,59
+Mississippi Valley State,1553.36,1626.96,56
+Jackson State,1553.34,1611.58,58
+Middle Tennessee,1553.25,1569.03,56
+Utah Tech,1553.13,1601.98,56
+North Dakota,1552.97,1607.68,59
+Central Michigan,1552.86,1598.42,56
+UC Santa Barbara,1551.98,1571.03,58
+Mercyhurst,1551.96,1616.25,59
+Lipscomb,1551.58,1610.21,62
+Boston University,1551.17,1598.75,61
+Columbia,1551.15,1587.18,50
+Marist,1550.86,1589.55,54
+Western Kentucky,1550.46,1580.35,56
+Queens (NC),1550.36,1590.4,62
+Alabama State,1550.21,1609.31,57
+UT Martin,1549.91,1618.54,59
+Kansas City,1549.76,1596.19,58
+Wofford,1548.83,1606.23,60
+Saint Peter's,1548.74,1584.87,51
+Harvard,1548.2,1608.26,51
+UNC Asheville,1548.15,1600.38,56
+SIU Edwardsville,1547.99,1605.93,59
+Saint Francis (PA),1546.69,1596.88,57
+Sacramento State,1546.38,1601.53,59
+Winthrop,1546.2,1590.41,59
+American,1546.13,1585.65,60
+Coastal Carolina,1545.86,1602.66,62
+North Florida,1545.65,1592.89,62
+Stetson,1545.4,1600.16,62
+Lafayette,1543.59,1618.0,63
+North Carolina Central,1543.47,1604.58,56
+Marshall,1543.33,1587.76,60
+Binghamton,1542.7,1609.36,59
+Troy,1542.67,1566.18,58
+Evansville,1542.44,1566.45,61
+College of Charleston,1542.39,1597.55,61
+USC Upstate,1542.3,1593.36,59
+Illinois State,1542.25,1555.66,61
+Samford,1541.63,1577.41,60
+Campbell,1541.6,1607.15,60
+Northern Arizona,1541.41,1608.6,58
+Rider,1541.07,1560.06,58
+Southeastern Louisiana,1540.98,1612.34,60
+Miami (OH),1540.82,1578.22,58
+Liberty,1540.46,1593.71,55
+Princeton,1539.53,1573.93,54
+North Dakota State,1539.45,1578.28,59
+Gonzaga,1539.29,1539.29,62
+Texas A&M–Commerce,1539.27,1587.86,62
+St. Thomas,1538.96,1588.43,59
+Stephen F. Austin,1538.85,1612.59,59
+Siena,1538.81,1556.53,58
+Youngstown State,1538.75,1582.4,60
+Texas–Rio Grande Valley,1538.45,1604.53,58
+Cornell,1537.95,1604.73,50
+Milwaukee,1537.63,1598.87,60
+Vermont,1537.33,1607.46,60
+UC Irvine,1537.24,1588.12,59
+Canisius,1537.14,1592.29,58
+Buffalo,1536.08,1594.69,58
+Pennsylvania,1536.04,1559.3,52
+Presbyterian,1535.77,1597.09,59
+Drexel,1535.37,1580.66,61
+Louisiana–Monroe,1535.26,1606.68,62
+Eastern Michigan,1534.87,1583.73,59
+Illinois–Chicago,1533.69,1577.11,58
+South Alabama,1533.13,1581.02,60
+VMI,1532.95,1611.53,58
+North Carolina A&T,1532.19,1561.31,61
+Oral Roberts,1531.75,1590.96,54
+Quinnipiac,1531.67,1572.2,57
+Colgate,1531.46,1594.03,61
+Yale,1531.36,1574.39,51
+Army,1531.01,1588.24,58
+Charlotte,1530.69,1565.18,57
+UNC Greensboro,1530.46,1601.25,59
+Indiana State,1530.17,1566.45,60
+Memphis,1529.31,1534.25,60
+Wright State,1529.11,1578.01,62
+Robert Morris,1528.23,1569.78,61
+Stony Brook,1528.14,1593.76,61
+NJIT,1528.05,1584.32,61
+Monmouth,1527.5,1581.15,62
+Ball State,1527.35,1589.74,57
+George Mason,1527.27,1546.89,57
+Tarleton State,1527.15,1580.69,55
+East Carolina,1527.01,1550.76,56
+Sam Houston State,1526.18,1605.78,55
+Seattle,1526.16,1586.91,54
+Cal State Northridge,1525.82,1613.03,56
+Toledo,1525.43,1577.69,59
+Florida Atlantic,1525.26,1549.18,57
+UTEP,1525.08,1582.38,55
+Oakland,1524.91,1570.45,63
+Texas A&M–Corpus Christi,1524.51,1611.71,60
+West Georgia,1524.39,1595.79,61
+UT Arlington,1524.26,1583.63,56
+Georgia,1523.98,1524.27,60
+Drake,1523.62,1560.53,58
+Radford,1523.62,1570.29,60
+Omaha,1523.6,1578.32,60
+Navy,1523.21,1578.53,61
+Mount St. Mary's,1522.74,1589.57,57
+Murray State,1522.48,1567.45,61
+Northwestern State,1521.46,1573.89,58
+Temple,1521.46,1556.25,59
+William & Mary,1520.91,1582.51,60
+Boise State,1520.73,1550.71,59
+Portland State,1520.47,1603.38,59
+Bradley,1519.82,1558.53,61
+Belmont,1519.82,1560.86,61
+Towson,1518.96,1563.06,61
+UC San Diego,1518.37,1608.8,58
+Iowa,1518.33,1518.33,58
+Northern Kentucky,1518.32,1570.41,62
+North Alabama,1517.98,1581.48,62
+Niagara,1515.8,1577.01,57
+Davidson,1515.62,1546.42,57
+Florida State,1515.19,1515.19,60
+Dartmouth,1514.61,1602.07,50
+Fordham,1514.59,1550.82,57
+UAB,1514.59,1547.83,57
+George Washington,1513.81,1552.34,59
+Western Michigan,1513.42,1584.16,59
+Southern Mississippi,1512.27,1595.33,62
+La Salle,1512.21,1550.13,57
+Loyola Chicago,1511.74,1538.32,57
+Kansas,1510.95,1528.94,60
+Arkansas,1510.88,1519.82,60
+UNC Wilmington,1510.82,1564.63,60
+Massachusetts,1510.6,1556.22,57
+Northeastern,1510.58,1565.45,62
+Rice,1510.58,1547.93,59
+San Jose State,1509.66,1561.84,60
+Missouri State,1509.47,1549.91,60
+Air Force,1509.3,1574.91,60
+Valparaiso,1507.67,1558.86,60
+Fresno State,1505.85,1546.2,60
+Butler,1505.36,1506.73,58
+Southern Illinois,1505.26,1556.11,60
+Santa Clara,1504.49,1535.43,62
+St. Bonaventure,1503.94,1537.53,57
+Indiana,1503.51,1512.24,60
+Arizona State,1503.08,1528.46,60
+Texas State,1502.26,1575.72,60
+New Mexico State,1501.69,1586.65,55
+Connecticut,1500.88,1522.66,58
+Utah Valley,1500.13,1601.7,54
+Tulane,1500.07,1555.03,56
+Illinois,1499.65,1522.21,60
+Northern Illinois,1499.24,1587.82,57
+Tulsa,1498.86,1552.78,58
+Wichita State,1498.34,1539.35,57
+Northern Iowa,1498.21,1540.43,61
+San Francisco,1498.11,1540.28,61
+Merrimack,1498.08,1595.66,60
+Wyoming,1498.07,1549.99,61
+UTSA,1497.46,1581.58,56
+Sacred Heart,1497.15,1571.84,57
+Washington State,1496.73,1545.58,62
+South Florida,1496.47,1547.78,59
+Boston College,1494.87,1512.91,58
+Creighton,1494.48,1520.5,60
+DePaul,1494.47,1537.71,58
+Louisville,1494.0,1538.52,58
+Louisiana State,1493.88,1528.98,60
+Utah State,1493.43,1525.52,59
+Baylor,1493.26,1540.09,59
+San Diego State,1492.77,1525.79,55
+Marquette,1491.99,1522.33,58
+Clemson,1491.92,1519.35,58
+Auburn,1491.83,1515.55,60
+Saint Joseph's,1491.73,1518.5,58
+Loyola Marymount,1491.54,1538.31,59
+Colorado State,1491.46,1545.07,60
+Kansas State,1491.12,1539.41,58
+Richmond,1490.84,1565.87,58
+Miami (FL),1490.32,1514.95,60
+Rogers State,1489.99,1500.0,1
+Michigan Tech,1489.85,1500.0,1
+Oregon State,1489.71,1518.14,61
+Morehouse,1489.45,1500.0,1
+Tx AM-Kingsvil,1489.12,1500.0,1
+Southern California,1488.94,1519.05,58
+Bowie St.,1488.94,1500.0,1
+Bowdoin,1488.82,1500.0,1
+UC-Colo. Springs,1488.82,1500.0,1
+Rhode Island,1488.82,1525.56,55
+Heidelberg,1488.6,1500.0,1
+Minn.-Crookston,1488.13,1500.0,1
+North Texas,1487.32,1538.9,54
+Dayton,1487.32,1535.86,59
+Florida,1487.3,1522.99,58
+Fredonia St.,1486.44,1500.0,1
+Duquesne,1486.41,1540.8,59
+Endicott,1486.18,1500.0,1
+Hawaii Pacific,1486.14,1500.0,1
+Gwynedd-Mercy,1486.03,1500.0,1
+Neumann,1486.02,1500.0,1
+Augusta,1486.01,1500.0,1
+Alabama,1486.0,1527.99,58
+Georgetown,1485.82,1518.48,60
+Rockford,1485.79,1500.0,1
+Lindsey Wilson,1485.64,1500.0,1
+Anderson (IN),1485.62,1500.0,1
+Tx Permian Basin,1485.55,1500.0,1
+UCF,1485.42,1516.1,58
+P.R.–Bayamon,1485.32,1500.0,1
+Bryn Athyn,1485.32,1500.0,1
+Randolph,1485.25,1500.0,1
+Hardin-Simmons,1485.14,1500.0,1
+Brigham Young,1485.14,1521.92,60
+Eastern Ore.,1485.07,1500.0,1
+Mercy,1484.74,1500.0,1
+Frostburg St.,1484.73,1500.0,1
+Lewis & Clark,1484.64,1500.0,1
+Lincoln (MO),1484.52,1500.0,1
+Chadron St.,1484.45,1500.0,1
+Northeastern St.,1484.43,1500.0,1
+Westcliff,1484.32,1500.0,1
+Newport News,1484.31,1500.0,1
+Marian (WI),1484.2,1500.0,1
+Cumberlands (KY),1484.19,1500.0,1
+Benedictine (IL),1484.15,1500.0,1
+Randolph-Macon,1484.07,1500.0,1
+Seattle Pacific,1484.0,1500.0,1
+Mid-Am Christian,1483.86,1500.0,1
+Whittier,1483.42,1500.0,1
+Houston,1483.32,1520.82,60
+Texas,1483.23,1524.44,60
+Ouachita Baptist,1483.2,1500.0,1
+Penn St.-Altoona,1483.1,1500.0,1
+Framingham St.,1482.96,1500.0,1
+Brevard,1482.81,1500.0,1
+Colorado Col.,1482.71,1500.0,1
+Saint Louis,1482.67,1556.88,58
+Union (TN),1482.66,1500.0,1
+Texas-Dallas,1482.58,1500.0,1
+Southern Oregon,1482.57,1500.0,1
+Siena Heights,1482.43,1500.0,1
+P.R.–Río Piedras,1482.37,1500.0,1
+Blackburn,1482.36,1500.0,1
+Harris-Stowe,1482.34,1500.0,1
+Regis (MA),1482.32,1500.0,1
+SUNY-Platts.,1482.2,1500.0,1
+WPI,1482.09,1500.0,1
+North Greenville,1482.05,1500.0,1
+St. Thomas (TX),1482.03,1500.0,1
+West Virginia,1481.95,1519.16,60
+Kean,1481.92,1500.0,1
+Ohio,1481.86,1563.55,59
+Washington,1481.86,1531.25,57
+Benedictine,1481.86,1500.0,1
+Hannibal-LaGrange,1481.84,1500.0,1
+Concordia-St. Paul,1481.83,1500.0,1
+Lehman,1481.82,1500.0,1
+Missouri S&T,1481.81,1500.0,1
+Maryville (TN),1481.78,1500.0,1
+Springfield,1481.76,1500.0,1
+Monmouth (IL),1481.75,1500.0,1
+Texas College,1481.67,1500.0,1
+Dist. Columbia,1481.66,1500.0,1
+Wis.-Stout,1481.6,1500.0,1
+Penn St. Fayette,1481.54,1500.0,1
+SMWC,1481.47,1500.0,1
+Gallaudet,1481.47,1500.0,1
+Chestnut Hill,1481.41,1500.0,1
+S Wesleyan,1481.4,1500.0,1
+UCLA,1481.37,1514.99,60
+Univ of the SW,1481.36,1500.0,1
+VCU,1481.35,1528.18,59
+Mansfield,1481.29,1500.0,1
+North Central (MN),1481.23,1500.0,1
+Ky. Wesleyan,1481.22,1500.0,1
+Chatham,1481.19,1500.0,1
+Dalton State,1481.16,1500.0,1
+SUNY Delhi,1481.11,1500.0,1
+Franklin,1481.09,1500.0,1
+William Woods,1481.05,1500.0,1
+Trinity (FL),1481.03,1500.0,1
+Haskell (KS),1480.94,1500.0,1
+Vermont St.–Randolph,1480.92,1500.0,1
+Montana Tech,1480.85,1500.0,1
+Ohio Christian,1480.82,1500.0,1
+Columbia College,1480.81,1500.0,1
+Asbury,1480.79,1500.0,1
+York (NY),1480.79,1500.0,1
+William Jessup,1480.71,1500.0,1
+LSU-Alexandria,1480.62,1500.0,1
+Old Westbury,1480.6,1500.0,1
+Capital,1480.55,1500.0,1
+Tabor College,1480.51,1500.0,1
+Mo. Southern St.,1480.45,1500.0,1
+Fort Valley St.,1480.44,1500.0,1
+Ohio Wesleyan,1480.4,1500.0,1
+West Va. Wesleyan,1480.35,1500.0,1
+Iowa State,1480.35,1537.03,60
+Shawnee St,1480.3,1500.0,1
+Penn St. Scranton,1480.17,1500.0,1
+Mitchell,1480.13,1500.0,1
+Friends (KS),1480.12,1500.0,1
+Ft. Lauderdale,1480.1,1500.0,1
+Maine-Augusta,1480.04,1500.0,1
+Penn St. - York,1480.03,1500.0,1
+Dickinson St,1479.96,1500.0,1
+Pitt.-Bradford,1479.92,1500.0,1
+John Jay,1479.8,1500.0,1
+Chapman,1479.76,1500.0,1
+North Central (IL),1479.75,1500.0,1
+Kentucky St.,1479.73,1500.0,1
+Sarah Lawrence,1479.66,1500.0,1
+Voorhees,1479.61,1500.0,1
+Georgia Tech,1479.61,1512.08,60
+Hawaii Hilo,1479.54,1500.0,1
+SUNY Maritime,1479.51,1500.0,1
+Willamette,1479.46,1500.0,1
+Baldwin-Wallace,1479.46,1500.0,1
+Goshen,1479.37,1500.0,1
+Calvary,1479.31,1500.0,1
+Tx A&M-Texarkana,1479.31,1500.0,1
+St. Norbert,1479.3,1500.0,1
+Colorado,1479.26,1521.24,58
+St. Elizabeth,1479.25,1500.0,1
+Arizona,1479.17,1519.28,60
+San Diego,1479.11,1534.8,61
+Rosemont,1479.09,1500.0,1
+Livingstone,1479.07,1500.0,1
+Christendom,1479.05,1500.0,1
+Xavier (LA),1479.04,1500.0,1
+Cincinnati,1479.0,1531.64,58
+Purdue Northwest,1478.99,1500.0,1
+Fisher College,1478.9,1500.0,1
+NC State,1478.89,1520.47,58
+Davis & Elkins,1478.88,1500.0,1
+Earlham,1478.86,1500.0,1
+SUNY-Canton,1478.85,1500.0,1
+SUNY Poly,1478.8,1500.0,1
+Franciscan,1478.77,1500.0,1
+Florida National,1478.71,1500.0,1
+SW Assem. of God,1478.7,1500.0,1
+Point,1478.67,1500.0,1
+Holy Family,1478.66,1500.0,1
+La. Christian,1478.66,1500.0,1
+Justice,1478.66,1500.0,1
+Corban,1478.64,1500.0,1
+Maine-Fort Kent,1478.61,1500.0,1
+S.D. Mines,1478.6,1500.0,1
+Pacific (OR),1478.45,1500.0,1
+P.R.–Mayaguez,1478.41,1500.0,1
+Pratt Institute,1478.38,1500.0,1
+New Mexico,1478.29,1516.3,59
+St. Mary's (CA),1478.29,1531.68,61
+Kansas Christian,1478.26,1500.0,1
+Syracuse,1478.23,1522.82,60
+Manor,1478.2,1500.0,1
+St. Mary's (MN),1478.18,1500.0,1
+Waldorf,1478.16,1500.0,1
+Mt. Aloysius,1478.14,1500.0,1
+Nazareth,1478.12,1500.0,1
+N.M. Highlands,1478.09,1500.0,1
+Elms,1478.03,1500.0,1
+Colby-Sawyer,1478.03,1500.0,1
+Spring Hill,1477.99,1500.0,1
+Crown (MN),1477.93,1500.0,1
+Wash. Adventist,1477.92,1500.0,1
+Merchant Marine,1477.87,1500.0,1
+Jamestown,1477.8,1500.0,1
+Southwestern (TX),1477.75,1500.0,1
+MU-Hamilton,1477.73,1500.0,1
+Middle GA St,1477.73,1500.0,1
+Purchase,1477.72,1500.0,1
+Boyce,1477.63,1500.0,1
+Crowley's Ridge,1477.52,1500.0,1
+Ozark Christian,1477.46,1500.0,1
+Holy Cross (IN),1477.45,1500.0,1
+Davenport,1477.45,1500.0,1
+Carolina Christian,1477.44,1500.0,1
+Virginia Wise,1477.35,1500.0,1
+Taylor (IN),1477.27,1500.0,1
+Mt. St. Mary (NY),1477.23,1500.0,1
+Thomas (ME),1477.12,1500.0,1
+Manhattanville,1477.05,1500.0,1
+Rust,1476.95,1500.0,1
+Lynchburg,1476.95,1500.0,1
+Dubuque,1476.95,1500.0,1
+Bethel (TN),1476.95,1500.0,1
+Ferrum,1476.94,1500.0,1
+Judson,1476.93,1500.0,1
+Lakeland,1476.93,1500.0,1
+Dickinson College,1476.92,1500.0,1
+Sul Ross St.,1476.91,1500.0,1
+Marywood,1476.89,1500.0,1
+Vermont St.–Lyndon,1476.89,1500.0,1
+San Fran. St.,1476.88,1500.0,1
+York (NE),1476.88,1500.0,1
+Dean,1476.87,1500.0,1
+Paul Quinn,1476.86,1500.0,1
+Kentucky,1476.86,1515.58,60
+Rivier,1476.85,1500.0,1
+IU Columbus,1476.84,1500.0,1
+Bluffton,1476.84,1500.0,1
+Lesley,1476.81,1500.0,1
+Immaculata,1476.66,1500.0,1
+Medgar Evers,1476.56,1500.0,1
+Concordia (MI),1476.5,1500.0,1
+Coastal Georgia,1476.36,1500.0,1
+Portland,1476.32,1557.57,60
+Milligan,1476.25,1500.0,2
+Edward Waters,1476.18,1500.0,1
+Nevada,1476.08,1523.52,60
+Lane,1476.06,1500.0,1
+Brockport,1476.05,1500.0,1
+Franklin Pierce,1476.01,1500.0,1
+Tennessee Wesleyan,1475.95,1500.0,1
+Wayland Baptist,1475.42,1500.0,1
+Minnesota,1475.41,1506.89,58
+Auburn Montgomery,1475.41,1500.0,1
+Western Ore.,1474.87,1500.0,1
+Mobile,1474.63,1500.0,1
+Averett,1474.56,1500.0,1
+Va. Wesleyan,1474.54,1500.0,1
+Spartanburg Methodist,1474.54,1500.0,1
+Muskingum,1474.15,1500.0,1
+Nebraska,1474.14,1526.98,60
+Texas Tech,1474.02,1521.14,58
+Webber,1473.82,1500.0,1
+California,1473.58,1517.37,58
+Westminster (UT),1473.31,1500.0,1
+Elizabeth City St.,1472.92,1500.0,1
+Texas Wesleyan,1472.06,1500.0,2
+Ole Miss,1471.41,1525.92,58
+Rutgers,1471.24,1518.25,60
+New College (FL),1471.03,1500.0,2
+Misericordia,1470.42,1500.0,2
+Villanova,1470.37,1515.0,62
+Pepperdine,1470.19,1556.03,61
+St. John's (NY),1469.84,1520.78,60
+Maryland,1469.22,1522.82,58
+SUNY-Oneonta,1469.11,1500.0,2
+Texas A&M–San Antonio,1468.45,1500.0,2
+Warner,1468.08,1500.0,2
+Johnson,1468.06,1500.0,2
+Menlo,1468.02,1500.0,2
+North Texas-Dallas,1467.68,1500.0,2
+Wake Forest,1467.63,1515.87,60
+Dakota Wesleyan,1467.41,1500.0,2
+Cairn,1467.03,1500.0,2
+Our Lady,1466.8,1500.0,2
+Bryan,1466.54,1500.0,2
+Howard Payne,1466.12,1500.0,2
+Trinity (TX),1465.32,1500.0,2
+Montreat,1465.28,1500.0,2
+SMU,1465.1,1521.36,60
+Truett McConnell,1464.54,1500.0,2
+Western Co.,1464.51,1500.0,2
+Tennessee,1464.47,1519.97,58
+Embry–Riddle (AZ),1464.1,1500.0,2
+Oklahoma State,1463.92,1515.26,58
+William Carey,1463.85,1500.0,2
+Tusculum,1463.83,1500.0,2
+Colo. Christian,1463.8,1500.0,2
+LeTourneau,1463.74,1500.0,2
+Alice Lloyd,1463.66,1500.0,2
+Lancaster Bible,1463.56,1500.0,2
+Michigan State,1463.52,1509.08,58
+Fisk,1463.44,1500.0,2
+TCU,1463.35,1523.09,60
+Walla Walla,1463.3,1500.0,2
+SW Christian,1463.24,1500.0,2
+Brewton-Parker,1463.13,1500.0,2
+St. Francis (IL),1463.05,1500.0,2
+Campbellsville,1462.75,1500.0,2
+Central St (OH),1462.62,1500.0,2
+Houghton,1462.49,1500.0,2
+Oakwood,1462.48,1500.0,2
+Southern Virginia,1462.44,1500.0,2
+Newberry,1462.36,1500.0,2
+MUW,1461.94,1500.0,2
+Bluefield Univ.,1461.84,1500.0,2
+Dillard,1461.74,1500.0,2
+South Carolina,1461.66,1521.37,60
+Nw University,1461.39,1500.0,2
+Valley Forge,1461.34,1500.0,2
+Texas Lutheran,1461.14,1500.0,2
+Loyola (LA),1461.14,1500.0,2
+Schreiner,1460.88,1500.0,2
+Vermont St.–Johnson,1460.84,1500.0,2
+Providence,1460.73,1512.67,58
+Nobel University,1460.72,1500.0,2
+Dallas,1460.03,1500.0,2
+Calumet College,1459.99,1500.0,2
+Trinity Christian,1459.71,1500.0,2
+Randall,1459.69,1500.0,2
+Texas A&M,1459.65,1522.08,60
+Notre Dame (MD),1459.54,1500.0,2
+Michigan,1459.52,1523.1,58
+Piedmont,1459.45,1500.0,2
+Northwestern,1459.36,1523.04,60
+Erskine,1459.13,1500.0,2
+Notre Dame,1459.05,1521.72,58
+Avila,1458.75,1500.0,2
+Evergreen State,1458.54,1500.0,2
+Park (AZ),1458.42,1500.0,2
+SW Adventist,1458.39,1500.0,2
+Mass.-Boston,1458.37,1500.0,2
+Stl Pharmacy,1458.36,1500.0,2
+Morris College,1458.3,1500.0,2
+Georgian Court,1458.3,1500.0,2
+St. Joseph's–LI,1458.25,1500.0,2
+N.C. Wesleyan,1458.02,1500.0,2
+Mary Baldwin,1458.01,1500.0,2
+Central Penn,1457.83,1500.0,2
+Peace,1457.58,1500.0,2
+Rhodes,1457.55,1500.0,2
+Penn St. Shenango,1457.54,1500.0,2
+Westminster (MO),1457.48,1500.0,2
+Cal State Maritime,1457.26,1500.0,2
+UNLV,1457.23,1525.04,60
+Virginia,1457.03,1515.97,60
+Pfeiffer,1456.72,1500.0,2
+Johnson/Wales-RI,1456.7,1500.0,2
+Occidental,1456.63,1500.0,2
+LaGrange,1456.52,1500.0,2
+Oglethorpe,1456.25,1500.0,2
+Emerson,1456.01,1500.0,2
+Aquinas,1455.89,1500.0,2
+Bob Jones,1455.88,1500.0,2
+Arl Baptist,1455.81,1500.0,2
+Missouri,1455.48,1524.6,58
+La Verne,1455.34,1500.0,2
+McMurry,1455.03,1500.0,2
+Bethany (WV),1454.64,1500.0,2
+Western N.M.,1454.07,1500.0,2
+Wisconsin,1453.71,1518.46,58
+Pittsburgh,1453.69,1523.04,58
+Oklahoma,1453.01,1521.02,58
+Washington Col.,1452.89,1500.0,2
+Pacific,1452.03,1560.2,62
+Penn State,1451.52,1523.04,60
+Utah,1450.98,1523.07,60
+Vanderbilt,1450.91,1522.78,60
+Duke,1450.36,1527.48,60
+Arkansas Baptist,1449.56,1500.0,3
+Mississippi State,1449.07,1525.34,60
+Seton Hall,1448.31,1515.1,60
+Trinity Baptist,1448.17,1500.0,3
+North Carolina,1447.28,1516.36,62
+Virginia Tech,1446.94,1518.17,60
+Purdue,1446.87,1516.42,60
+Southern–New Orleans,1445.79,1500.0,3
+Ecclesia,1445.73,1500.0,3
+Kentucky Christian,1445.58,1500.0,3
+Penn St.-Schuylkill,1445.22,1500.0,3
+Lincoln (CA),1444.17,1500.0,3
+Ohio State,1444.13,1520.82,60
+Stanford,1443.78,1520.29,58
+Midway,1443.56,1500.0,3
+St. Ambrose,1443.54,1500.0,3
+Regent,1442.3,1500.0,3
+Penn St-Wilkes B,1441.92,1500.0,3
+Mount Marty,1440.77,1500.0,3
+Toccoa Falls,1440.33,1500.0,3
+Mount Olive,1439.79,1500.0,3
+Oregon,1439.65,1515.84,60
+Miss. Col.,1439.14,1500.0,3
+Xavier,1438.54,1510.86,58
+Cleary,1437.58,1500.0,3
+Eureka,1436.13,1500.0,3
+Columbia Intl,1436.13,1500.0,4
+Cal St Stanislaus,1434.13,1500.0,3
+Brescia,1431.33,1500.0,4
+N New Mexico,1431.3,1500.0,4
+Cheyney,1430.69,1500.0,4
+La Sierra,1428.25,1500.0,5
+Mid-Atl Christian,1428.19,1500.0,4
+Florida Tech,1425.39,1500.0,5
+Defiance,1424.77,1500.0,4
+Carolina,1423.99,1500.0,4
+Dallas Christian,1421.41,1500.0,4
+Northwest Indian College,1421.24,1500.0,4
+College of Biblical Studies,1414.25,1500.0,5
+St. Andrews,1411.94,1500.0,5
+Champion Christian,1411.24,1500.0,5
+Bethesda CA,1410.08,1500.0,5
+East-West,1409.97,1500.0,5
+Life Pacific,1387.11,1500.0,6
+Virginia-Lynchburg,1320.04,1500.0,13
